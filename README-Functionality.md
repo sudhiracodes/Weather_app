@@ -1,6 +1,3 @@
-# Weather Explorer
-
-Weather Explorer is a comprehensive weather application that allows you to check, save, and analyze weather data for any location worldwide.
 
 ## Core Functions Explained
 
